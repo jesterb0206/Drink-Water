@@ -15,11 +15,11 @@
 
 <br>
 
-![Drink Water]()
+![Drink Water](images/drink-water.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Drink-Water/)
 
 <br>
 
